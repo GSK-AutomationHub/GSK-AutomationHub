@@ -8,51 +8,91 @@
 
 <img src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" alt="Banner" width="100%" />
 
+
 ## 📌 About Me
-- Lead QA Consultant | SDET | 13+ YOE | Hybrid UI + API Automation | Playwright & Selenium (TypeScript & Python) | Scaling AI-Powered Automation | GenAI & Agentic Quality Engineering | CI/CD Pipelines
-- Seasoned Quality Engineering professional dedicated to designing, scaling, and maintaining enterprise-grade test automation frameworks. Combines deep expertise in functional, web, and backend services validation. Adept at cross-language architecture using Python and TypeScript to power modern web and robust REST API testing pipelines. Hands-on proficiency in Playwright and Selenium ecosystems, leveraging Pytest and Behave (BDD) to build resilient test suites integrated seamlessly into Jenkins and GitHub Actions CI/CD workflows. Forward-thinking professional and an 𝗔𝗜 𝗲𝗻𝘁𝗵𝘂𝘀𝗶𝗮𝘀𝘁 actively pioneering cutting-edge, AI-driven, and Agentic QA workflows
+ Lead QA Consultant | SDET | 13+ YOE | Hybrid UI + API Automation | Playwright & Selenium (TypeScript & Python) | Scaling AI-Powered Automation | GenAI & Agentic Quality Engineering | CI/CD Pipelines
+ 
+**Seasoned Quality Engineering professional** dedicated to designing, scaling, and maintaining **enterprise-grade test automation frameworks**. Combines deep expertise in functional, web, and **backend services validation**. Adept at **cross-language architecture** using **Python and TypeScript** to power modern web and robust **REST API testing pipelines**. Hands-on proficiency in **Playwright and Selenium ecosystems**, leveraging **Pytest and Behave (BDD)** to build resilient test suites integrated seamlessly into **Jenkins and GitHub Actions CI/CD workflows**. Forward-thinking professional and an 𝗔𝗜 𝗲𝗻𝘁𝗵𝘂𝘀𝗶𝗮𝘀𝘁 actively pioneering cutting-edge, **AI-driven, and Agentic QA workflows**
+
+
+## 🧠 My Focus Areas
+- **Playwright / Selenium Automation (TypeScript & Python)**
+- **Scaling AI-Powered Automation**
+- **GenAI & Agentic Quality Engineering**
 
 
 ## 🛠️ Core Competency Matrix
 
-🧪 Web & UI Automation Architecture
-- Playwright (TypeScript): Asynchronous test orchestration, custom fixture lifecycles, network mocking/interception (page.route), multi-auth state storage, and highly scalable test sharding across CI/CD runners.
-- Selenium WebDriver (Python): Production-grade Page Object Models (POM), custom dynamic wait configurations, parallel execution grids, and legacy framework migrations.
+🧪 **Web & UI Automation Architecture**
+- **Playwright (TypeScript)**: Asynchronous test orchestration, custom fixture lifecycles, network mocking/interception (page.route), multi-auth state storage, and highly scalable test sharding across CI/CD runners.
+- **Selenium WebDriver (Python)**: Production-grade Page Object Models (POM), custom dynamic wait configurations, parallel execution grids, and legacy framework migrations.
 
-🌐 API Testing & Integration Engineering
-- Postman & Swagger: Designing end-to-end integration workflows, programmatic collection runners, environment/global variable chaining, and writing complex JavaScript-based pre-request and test assertion scripts.
-- Hybrid Frameworks: Seamless coupling of UI workflows with live API state injection for rapid database seeding and pre-requisite bypassing.
+🌐 **API Testing & Integration Engineering**
+- **Postman & Swagger**: Designing end-to-end integration workflows, programmatic collection runners, environment/global variable chaining, and writing complex JavaScript-based pre-request and test assertion scripts.
+- **Hybrid Frameworks**: Seamless coupling of UI workflows with live API state injection for rapid database seeding and pre-requisite bypassing.
 
-♾️ DevSecOps & Continuous Integration
-- GitHub Actions & Jenkins: Creating matrix-based continuous integration builds, automated Slack/Teams notification hooks, HTML report persistence, and headless containerized execution.
+
+♾️ **DevSecOps & Continuous Integration**
+- **GitHub Actions & Jenkins**: Creating matrix-based continuous integration builds, automated Slack/Teams notification hooks, HTML report persistence, and headless containerized execution.
 
 
 ## 🚀 Ongoing Professional Development & Upcoming Work
-- Actively modernising my core automation footprint by driving deep technical exploration, framework prototyping, and architectural upskilling in Agentic Quality Engineering.
-- Advanced Tech Stack Stack under Integration: Python, Langflow, DeepEval, RAG architectures, n8n workflow engine, OpenAI & open-source LLM APIs.
-- Low-Code Automation & Multi-Agent QA Systems: Designing visual automated triage nodes using n8n and Langflow to intercept deployment webhooks, parse application crash traces, and auto-dispatch targeted verification sub-suites.
-- LLM Evaluation & RAG Testing Strategy: Implementing validation protocols for Generative AI layers leveraging DeepEval metrics to programmatically benchmark context alignment, faithfulness, hallucination risk, and semantic answer relevancy.
+> *Actively modernising my core automation footprint by driving deep technical exploration, framework prototyping, and architectural upskilling in Agentic Quality Engineering.*
+* **Advanced Tech Stack Stack under Integration**: Python, Langflow, DeepEval, RAG architectures, n8n workflow engine, OpenAI & open-source LLM APIs.
+- **Low-Code Automation & Multi-Agent QA Systems**: Designing visual automated triage nodes using n8n and Langflow to intercept deployment webhooks, parse application crash traces, and auto-dispatch targeted verification sub-suites.
+- **LLM Evaluation & RAG Testing Strategy**: Implementing validation protocols for Generative AI layers leveraging DeepEval metrics to programmatically benchmark context alignment, faithfulness, hallucination risk, and semantic answer relevancy.
 
 
 ## 🏗️ Featured Engineering Portfolios (Repositories)
 
-1. playwright-typescript-hybrid-framework
-- Enterprise-grade multi-tenant web and API testing framework.
-- Tech Stack: TypeScript, Playwright, Axios, Faker, Allure Reports.
-- Key Features: Combined UI validation with parallel API state preparation, dynamic session reuse, and automatic visual regression tracking.
-- CI/CD: Multi-stage workflow via GitHub Actions running on isolated Ubuntu runners.
+### 1. `playwright-typescript-hybrid-framework`
+> **Enterprise-grade multi-tenant web and API testing framework.**
+- **Tech Stack**: TypeScript, Playwright, Axios, Faker, Allure Reports.
+- **Key Features**: Combined UI validation with parallel API state preparation, dynamic session reuse, and automatic visual regression tracking.
+- **CI/CD**: Multi-stage workflow via GitHub Actions running on isolated Ubuntu runners.
 
-2. python-pytest-selenium-bdd-pipeline
-- Scalable BDD engine built for legacy web compatibility and heavy data-driven matrix workloads.
-- Tech Stack: Python, PyTest, Selenium WebDriver, Behave (Gherkin), Pandas.
-- Key Features: Thread-safe parallel test execution, explicit wait factories, and customized Excel/CSV test data parsing drivers.
-- CI/CD: Native integration via Jenkinsfile pipeline stages with strict quality gates.
+### 2. `python-pytest-selenium-bdd-pipeline`
+> **Scalable BDD engine built for legacy web compatibility and heavy data-driven matrix workloads.**
+- **Tech Stack**: Python, PyTest, Selenium WebDriver, Behave (Gherkin), Pandas.
+- **Key Features**: Thread-safe parallel test execution, explicit wait factories, and customized Excel/CSV test data parsing drivers.
+- **CI/CD**: Native integration via Jenkinsfile pipeline stages with strict quality gates.
 
 
-## 🧠 My Focus Areas
-- Playwright / Selenium Automation (TypeScript & Python)
-- Scaling AI-Powered Automation
-- GenAI & Agentic Quality Engineering
+## 📈 Technical Ecosystem Visualized
+
+```
+ ┌────────────────────────────────────────────────────────┐
+ │                   ENTERPRISE CORE IT                   │
+ └───────────┬────────────────────────────────┬───────────┘
+             │                                │
+             ▼                                ▼
+   ┌───────────────────┐            ┌───────────────────┐
+   │    TYPESCRIPT     │            │      PYTHON       │
+   └─────────┬─────────┘            └─────────┬─────────┘
+             │                                │
+     [ Playwright UI ]               [ Selenium BDD ]
+     [ Axios API Engine ]            [ Requests Lib ]
+             │                                │
+             └───────────────┬────────────────┘
+                             │
+                             ▼
+               ┌───────────────────────────┐
+               │    HYBRID INTEGRATION     │
+               │   (Postman + Swagger)     │
+               └─────────────┬─────────────┘
+                             │
+                             ▼
+               ┌───────────────────────────┐
+               │      AI QA ENGINES        │
+               │ (n8n, Langflow, DeepEval) │
+               └─────────────┬─────────────┘
+                             │
+                             ▼
+               ┌───────────────────────────┐
+               │     CI/CD ORCHESTRATION   │
+               │ (Jenkins / GitHub Actions)│
+               └───────────────────────────┘
+```
 
 
 ## 📊 GitHub Stats & Trophies
