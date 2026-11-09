@@ -63,9 +63,9 @@ Lead QA Consultant | SDET | 13+ YOE | Hybrid UI + API Automation | Playwright & 
   <a href="https://github.com/GSK-AutomationHub">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GSK-AutomationHub&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="GSK-AutomationHub's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=GSK-AutomationHub&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GSK-AutomationHub's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=GSK-AutomationHub&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GSK-AutomationHub's GitHub Streak" width="50%" />
 </p>
-<p align="center">
+<p align="left">
   <a href="https://github.com/GSK-AutomationHub">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GSK-AutomationHub&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
   </a>
