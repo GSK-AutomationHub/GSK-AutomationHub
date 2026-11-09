@@ -15,15 +15,15 @@
 
 ## 🛠️ Core Competency Matrix
 
-- 🧪 Web & UI Automation Architecture
+🧪 Web & UI Automation Architecture
 - Playwright (TypeScript): Asynchronous test orchestration, custom fixture lifecycles, network mocking/interception (page.route), multi-auth state storage, and highly scalable test sharding across CI/CD runners.
 - Selenium WebDriver (Python): Production-grade Page Object Models (POM), custom dynamic wait configurations, parallel execution grids, and legacy framework migrations.
 
-- 🌐 API Testing & Integration Engineering
+🌐 API Testing & Integration Engineering
 - Postman & Swagger: Designing end-to-end integration workflows, programmatic collection runners, environment/global variable chaining, and writing complex JavaScript-based pre-request and test assertion scripts.
 - Hybrid Frameworks: Seamless coupling of UI workflows with live API state injection for rapid database seeding and pre-requisite bypassing.
 
-- ♾️ DevSecOps & Continuous Integration
+♾️ DevSecOps & Continuous Integration
 - GitHub Actions & Jenkins: Creating matrix-based continuous integration builds, automated Slack/Teams notification hooks, HTML report persistence, and headless containerized execution.
 
 
@@ -36,13 +36,13 @@
 
 ## 🏗️ Featured Engineering Portfolios (Repositories)
 
-- 1. playwright-typescript-hybrid-framework
+1. playwright-typescript-hybrid-framework
 - Enterprise-grade multi-tenant web and API testing framework.
 - Tech Stack: TypeScript, Playwright, Axios, Faker, Allure Reports.
 - Key Features: Combined UI validation with parallel API state preparation, dynamic session reuse, and automatic visual regression tracking.
 - CI/CD: Multi-stage workflow via GitHub Actions running on isolated Ubuntu runners.
 
-- 2. python-pytest-selenium-bdd-pipeline
+2. python-pytest-selenium-bdd-pipeline
 - Scalable BDD engine built for legacy web compatibility and heavy data-driven matrix workloads.
 - Tech Stack: Python, PyTest, Selenium WebDriver, Behave (Gherkin), Pandas.
 - Key Features: Thread-safe parallel test execution, explicit wait factories, and customized Excel/CSV test data parsing drivers.
