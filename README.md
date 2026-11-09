@@ -59,7 +59,7 @@ Lead QA Consultant | SDET | 13+ YOE | Hybrid UI + API Automation | Playwright & 
 
 
 ## 📊 GitHub Stats & Trophies
-<p align="center">
+<p align="left">
   <a href="https://github.com/GSK-AutomationHub">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GSK-AutomationHub&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="GSK-AutomationHub's GitHub Stats" />
   </a>
@@ -70,7 +70,7 @@ Lead QA Consultant | SDET | 13+ YOE | Hybrid UI + API Automation | Playwright & 
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GSK-AutomationHub&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
   </a>
 </p>
-<p align="center">
+<p align="left">
   <img src="https://trophy.ryglcloud.net/?username=GSK-AutomationHub&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Ganesh Kulkarni's GitHub Trophies" />
 </p>
 
